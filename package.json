@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "package for learning nodejs and express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "check": "node 1-intro.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none "
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "jagadeesha",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
